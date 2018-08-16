@@ -1,0 +1,13 @@
+Instruction Manual for Remote Control
+This Remote Control will operate your vehicle.Addtionally it may be programmed to turn your vehicle On and OFF.
+
+1.The window "VideoView" will display a real-time image of the region that your vehicle passes through.
+
+2.Hold and swap the "Power" button to turn on and turn off your vehicle.
+
+3.Press "¡ü", "¡ý", "¡û", "¡ú" button will operate your vehicle to move straight, backward, turn left and turn right manually.
+
+4.Press "STOP/RUN" button will operate your vehicle to move automatically, press the button again to quit automatic mode.
+
+5.Press "Rotate" button to rotate the direction.
+
